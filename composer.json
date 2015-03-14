@@ -1,0 +1,13 @@
+{
+    "name": "php-daddy/contracts",
+    "description": "A collection of contracts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nino Paolo Amarillento",
+            "email": "o70vd@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
