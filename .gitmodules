@@ -1,3 +1,0 @@
-[submodule "singleton"]
-	path = singleton
-	url = https://github.com/php-daddy/contract-singleton.git
