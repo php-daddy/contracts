@@ -10,6 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php-daddy/contract-singleton": "*"
+        "php-daddy/contract-singleton": "*",
+        "php-daddy/contract-multiton": "*"
     }
 }
